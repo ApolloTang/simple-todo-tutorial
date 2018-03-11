@@ -1,6 +1,8 @@
 # simple-todo
 
+
 > A Vue.js project
+> This this the repo for [paadams's tutorial](https://codeburst.io/build-a-simple-todo-app-with-vue-js-1778ae175514)
 
 ## Build Setup
 
@@ -16,3 +18,4 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
